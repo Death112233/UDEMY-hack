@@ -43,7 +43,7 @@ To use this script, you'll need Python installed on your machine along with the 
 3. Run the script using Python:
 
    ```bash
-   python udemy_link_extractor.py
+   python udemy.py
    ```
 
 4. Follow the on-screen prompts:
@@ -52,7 +52,7 @@ To use this script, you'll need Python installed on your machine along with the 
 
    Example:
    ```
-   Enter the website URL (e.g., https://coursevania.com): https://example.com
+   Enter the website URL (e.g., https://example.com): https://example.com
    Enter the maximum scraping depth (1-6): 3
    ```
 
